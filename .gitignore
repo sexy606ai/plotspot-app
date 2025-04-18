@@ -1,0 +1,9 @@
+# Electron build output
+dist/
+# Node dependencies
+node_modules/
+# npm lockfile (optional, but we’ll include it)
+# package-lock.json
+# macOS/Windows cruft
+.DS_Store
+Thumbs.db
